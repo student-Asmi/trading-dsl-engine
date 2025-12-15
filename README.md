@@ -1,5 +1,7 @@
 # 🔥 **Natural Language → DSL → AST → Python Strategy Engine**  
 ### **A Mini Research-Engineering Pipeline for Rule-Based Trading Logic**
+(Rule-based trading DSL compiler with backtesting in Python)
+
 
 This project implements a **complete end-to-end compiler-style pipeline** that converts natural-language trading rules into a **domain-specific language (DSL)**, parses them into an **AST**, generates **executable Python code**, evaluates signals, and finally runs a **simple backtest engine**.
 
